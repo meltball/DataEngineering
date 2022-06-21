@@ -1,9 +1,8 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Meltem Ballan
+role: Faculty
+email: meltemballan@bennington.edu
+website: [https://www.bennington.edu/academics/faculty/meltem-ballan]
+photo: meltem.jpg
 ---
-
-I like teaching Computer Science!
+My passion is data and teaching computer science. 
