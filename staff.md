@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
+description:Course Instructors
 ---
 
 # Staff
